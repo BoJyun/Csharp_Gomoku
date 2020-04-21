@@ -1,0 +1,10 @@
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\obj\Debug\Gomoku.Gomoku.resources
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+D:\coding_practice\C#學習日記\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
